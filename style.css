@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.text1{
+   margin-bottom: 9px;
+    border: none;
+    padding: 5px 10px;
+}
+.sentr{
+    text-align: center;
+}
+.div1{
+    margin: auto;
+    padding: 10px 10px ;
+width: 300px;
+height: 280px;
+background-color: rgb(207, 207, 227);
+border-radius: 4px;
+}
+.button2{
+    text-align: center;
+    background-color: rgb(83, 83, 228);
+    border-radius: 2px;
+    border: none;
+    width: 300px;
+    height: 25px;
+}
+.button2:hover{
+    background-color: aquamarine;
+    color: rgb(255, 255, 255);
+}
+.rang1{
+    color: rgb(83, 83, 228);
+    
+}
+.sentr5{
+    padding: 55px;
+}
+.div1 i{
+    margin-left: 285px;
+}
